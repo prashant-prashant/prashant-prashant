@@ -72,8 +72,6 @@
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prashant-prashant&layout=compact&theme=tokyonight)
 
----
-
 ## 🔥 GitHub Streak
 
 ![Streak](https://streak-stats.demolab.com/?user=prashant-prashant\&theme=tokyonight)
