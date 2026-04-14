@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Prashant Gupta
 
-🚀 DevOps & Cloud Enthusiast | ☁️ AWS Learner | 💻 Python Developer
+🚀 DevOps & Cloud Engineer | AWS | Docker | Kubernetes | CI/CD | Python Full Stack (Django, Flask)
 
 ---
 
@@ -68,10 +68,9 @@
 ---
 
 ## 📊 GitHub Stats
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prashant-prashant&show_icons=true&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=prashant-prashant\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-prashant\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prashant-prashant&layout=compact&theme=tokyonight)
 
 ---
 
